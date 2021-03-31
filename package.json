@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "schmedtmannSCSS",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Hill, Jeffrey",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "npm": "^6.14.11",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
